@@ -5,4 +5,5 @@ RUN apt-get update \
     -y \
     --no-install-recommends \
     git \
+    openssh-client \
     ca-certificates
